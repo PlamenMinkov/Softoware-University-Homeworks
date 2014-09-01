@@ -1,0 +1,21 @@
+#yellow{
+			color:#FBEEC9;
+		}
+		#white{
+			color:white;
+		}
+		ul, h2, #inUl{
+		   color:#E7B55B;
+		}
+		body{
+			background-image:url('../images/background.jpg');
+			font-family:Calibri;
+		}
+		div{
+			width:80%;
+			background-color:#20201E;
+			border-style:solid;
+			border-width:1px;
+			border-color:white;
+			padding-left:5px;
+		}

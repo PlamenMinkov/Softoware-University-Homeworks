@@ -1,0 +1,19 @@
+body{
+		background-color: #bfc5c8;
+	}                              
+h1{
+	font-size: 18px;
+	font-style: italic;
+ }              
+header{
+	height: 50px;
+	}              
+ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}              
+li{
+	float: left;
+	margin-right: 50px;
+}
