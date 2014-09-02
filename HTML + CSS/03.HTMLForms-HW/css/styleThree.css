@@ -1,0 +1,29 @@
+﻿      body {
+            font-size: 14px;
+            font-family: 'Tahoma', sans-serif;
+        }
+
+        .upload {
+            margin: 20px 0;
+        }
+
+        label {
+            float: left;
+            margin: 3px 8px 0 0;
+        }
+
+        input[name="search"] {
+            float: left;
+            margin: 3px 5px 0 0;
+        }
+
+        button {
+            background: url(images/smallWordpress.png) no-repeat;
+            width: 31px;
+            height: 30px;
+            border: 0 none;
+            float: left;
+        }
+        img {
+            margin-top:10px;
+        }

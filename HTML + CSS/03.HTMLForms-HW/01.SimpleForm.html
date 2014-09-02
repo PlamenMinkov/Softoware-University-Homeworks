@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Siple Form</title>
+    <link rel="stylesheet" type="text/css" href="css/styleOne.css">
+</head>
+<body>
+    <h2>Enter the system</h2>
+    <p>It is necesary to login in Your account in order to sign in for a course.</p>
+
+    <form  method="POST" class="register" action="reg.php">
+        <div>
+            <h3>ARE YOU NEW? <span>REGISTER</span></h3>
+            <input type="text" name="username" placeholder="Username" required="true" />
+            <input type="email" name="email" placeholder="Email" required="true" />
+            <input type="password" name="password" placeholder="Password" required="true" />
+            <input type="password" name="confirm_passwrod" placeholder="Confirm Password" required="true" />
+        </div>
+        <button>Register</button>
+    </form>
+
+    <form method="POST" class="login" action="logIn.php">
+        <h3>ALREADY A STUDENT? LOGIN</h3>
+        <input type="text" name="username" placeholder="Username" required="true" />
+        <input type="password" name="password" placeholder="Password" required="true" />
+        <div class="remember">
+            <input type="checkbox" name="remember" id="remember" />
+            <label for="remember">Remember me?</label>
+        </div>
+        <div id="logIn">
+            <button>Login</button><br />
+            <a href="">Forgot Password</a>
+        </div>
+    </form>
+</body>
+</html>
