@@ -1,0 +1,12 @@
+D:\SoftUni\06.Loops\06.Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+D:\SoftUni\06.Loops\06.Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+D:\SoftUni\06.Loops\06.Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\06.Loops\06.Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb
+E:\Programing and Programing Materials\SoftUni\C#\06.Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+E:\Programing and Programing Materials\SoftUni\C#\06.Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+E:\Programing and Programing Materials\SoftUni\C#\06.Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb
+E:\Programing and Programing Materials\SoftUni\C#\06.Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+E:\Programing and Programing Materials\SoftUni\C#\06.Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+E:\Programing and Programing Materials\SoftUni\C#\06.Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.csprojResolveAssemblyReference.cache

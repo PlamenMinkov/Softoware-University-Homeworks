@@ -1,0 +1,5 @@
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\6.PointAndCircle\bin\Debug\6.PointAndCircle.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\6.PointAndCircle\bin\Debug\6.PointAndCircle.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\6.PointAndCircle\obj\x86\Debug\07.PointInCircle.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\6.PointAndCircle\obj\x86\Debug\6.PointAndCircle.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\6.PointAndCircle\obj\x86\Debug\6.PointAndCircle.pdb

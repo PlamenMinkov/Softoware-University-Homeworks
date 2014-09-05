@@ -1,0 +1,2 @@
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\10.PositionBit\obj\x86\Debug\10.PositionBit.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\10.PositionBit\obj\x86\Debug\10.PositionBit.pdb

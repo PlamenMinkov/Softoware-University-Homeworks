@@ -1,0 +1,9 @@
+D:\SoftUni\07.C# Advanced\Advanced-Homework\16.CountingAWprdInText\bin\Debug\16.CountingAWprdInText.exe.config
+D:\SoftUni\07.C# Advanced\Advanced-Homework\16.CountingAWprdInText\bin\Debug\16.CountingAWprdInText.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\16.CountingAWprdInText\bin\Debug\16.CountingAWprdInText.pdb
+D:\SoftUni\07.C# Advanced\Advanced-Homework\16.CountingAWprdInText\obj\Debug\16.CountingAWprdInText.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.C# Advanced\Advanced-Homework\16.CountingAWprdInText\obj\Debug\16.CountingAWprdInText.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\16.CountingAWprdInText\obj\Debug\16.CountingAWprdInText.pdb
+E:\Programing and Programing Materials\SoftUni\C#\Advanced-Homework\16.CountingAWprdInText\bin\Debug\16.CountingAWprdInText.exe.config
+E:\Programing and Programing Materials\SoftUni\C#\Advanced-Homework\16.CountingAWprdInText\obj\Debug\16.CountingAWprdInText.exe
+E:\Programing and Programing Materials\SoftUni\C#\Advanced-Homework\16.CountingAWprdInText\obj\Debug\16.CountingAWprdInText.pdb

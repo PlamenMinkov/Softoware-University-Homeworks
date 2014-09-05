@@ -1,0 +1,7 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\7.PrimeNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\7.PrimeNumbers\bin\Debug\7.PrimeNumbers.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\7.PrimeNumbers\bin\Debug\7.PrimeNumbers.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\7.PrimeNumbers\obj\x86\Debug\7.PrimeNumbers.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\7.PrimeNumbers\obj\x86\Debug\7.PrimeNumbers.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\7.PrimeNumbers\obj\x86\Debug\7.PrimeNumbers.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\7.PrimeNumbers\obj\x86\Debug\7.PrimeNumbers.pdb

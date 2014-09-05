@@ -1,0 +1,5 @@
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

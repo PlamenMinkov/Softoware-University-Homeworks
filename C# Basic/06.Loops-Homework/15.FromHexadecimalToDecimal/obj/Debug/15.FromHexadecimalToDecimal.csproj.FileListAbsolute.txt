@@ -1,0 +1,6 @@
+D:\SoftUni\06.Loops\06.Loops-Homework\15.FromHexadecimalToDecimal\bin\Debug\15.FromHexadecimalToDecimal.exe.config
+D:\SoftUni\06.Loops\06.Loops-Homework\15.FromHexadecimalToDecimal\bin\Debug\15.FromHexadecimalToDecimal.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\15.FromHexadecimalToDecimal\bin\Debug\15.FromHexadecimalToDecimal.pdb
+D:\SoftUni\06.Loops\06.Loops-Homework\15.FromHexadecimalToDecimal\obj\Debug\15.FromHexadecimalToDecimal.csprojResolveAssemblyReference.cache
+D:\SoftUni\06.Loops\06.Loops-Homework\15.FromHexadecimalToDecimal\obj\Debug\15.FromHexadecimalToDecimal.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\15.FromHexadecimalToDecimal\obj\Debug\15.FromHexadecimalToDecimal.pdb

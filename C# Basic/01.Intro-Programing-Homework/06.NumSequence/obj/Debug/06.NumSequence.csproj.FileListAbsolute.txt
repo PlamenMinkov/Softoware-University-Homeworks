@@ -1,0 +1,5 @@
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\06.NumSequence\bin\Debug\06.NumSequence.exe.config
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\06.NumSequence\bin\Debug\06.NumSequence.exe
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\06.NumSequence\bin\Debug\06.NumSequence.pdb
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\06.NumSequence\obj\Debug\06.NumSequence.exe
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\06.NumSequence\obj\Debug\06.NumSequence.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\06.Loops\06.Loops-Homework\04.DeckOfCards\bin\Debug\04.DeckOfCards.exe.config
+D:\SoftUni\06.Loops\06.Loops-Homework\04.DeckOfCards\bin\Debug\04.DeckOfCards.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\04.DeckOfCards\bin\Debug\04.DeckOfCards.pdb
+D:\SoftUni\06.Loops\06.Loops-Homework\04.DeckOfCards\obj\Debug\04.DeckOfCards.csprojResolveAssemblyReference.cache
+D:\SoftUni\06.Loops\06.Loops-Homework\04.DeckOfCards\obj\Debug\04.DeckOfCards.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\04.DeckOfCards\obj\Debug\04.DeckOfCards.pdb

@@ -1,0 +1,7 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\3.RectangleArea\bin\Debug\3.RectangleArea.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\3.RectangleArea\bin\Debug\3.RectangleArea.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\3.RectangleArea\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\3.RectangleArea\obj\x86\Debug\3.RectangleArea.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\3.RectangleArea\obj\x86\Debug\3.RectangleArea.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\3.RectangleArea\obj\x86\Debug\3.RectangleArea.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\3.RectangleArea\obj\x86\Debug\3.RectangleArea.pdb

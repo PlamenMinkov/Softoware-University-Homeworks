@@ -1,0 +1,7 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\8.Trapezoid's Area\bin\Debug\8.Trapezoid's Area.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\8.Trapezoid's Area\bin\Debug\8.Trapezoid's Area.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\8.Trapezoid's Area\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\8.Trapezoid's Area\obj\x86\Debug\8.Trapezoid's Area.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\8.Trapezoid's Area\obj\x86\Debug\8.Trapezoid's Area.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\8.Trapezoid's Area\obj\x86\Debug\8.Trapezoid's Area.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\8.Trapezoid's Area\obj\x86\Debug\8.Trapezoid's Area.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\07.C# Advanced\Advanced-Homework\05.SortNums\bin\Debug\05.SortNums.exe.config
+D:\SoftUni\07.C# Advanced\Advanced-Homework\05.SortNums\bin\Debug\05.SortNums.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\05.SortNums\bin\Debug\05.SortNums.pdb
+D:\SoftUni\07.C# Advanced\Advanced-Homework\05.SortNums\obj\Debug\05.SortNums.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.C# Advanced\Advanced-Homework\05.SortNums\obj\Debug\05.SortNums.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\05.SortNums\obj\Debug\05.SortNums.pdb

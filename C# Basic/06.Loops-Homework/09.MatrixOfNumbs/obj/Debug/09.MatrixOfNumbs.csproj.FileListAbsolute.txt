@@ -1,0 +1,5 @@
+D:\SoftUni\06.Loops\06.Loops-Homework\09.MatrixOfNumbs\bin\Debug\09.MatrixOfNumbs.exe.config
+D:\SoftUni\06.Loops\06.Loops-Homework\09.MatrixOfNumbs\bin\Debug\09.MatrixOfNumbs.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\09.MatrixOfNumbs\bin\Debug\09.MatrixOfNumbs.pdb
+D:\SoftUni\06.Loops\06.Loops-Homework\09.MatrixOfNumbs\obj\Debug\09.MatrixOfNumbs.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\09.MatrixOfNumbs\obj\Debug\09.MatrixOfNumbs.pdb

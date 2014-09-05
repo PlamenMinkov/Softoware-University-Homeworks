@@ -1,0 +1,6 @@
+D:\SoftUni\07.C# Advanced\Advanced-Homework\12.CountOfNames\bin\Debug\12.CountOfNames.exe.config
+D:\SoftUni\07.C# Advanced\Advanced-Homework\12.CountOfNames\bin\Debug\12.CountOfNames.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\12.CountOfNames\bin\Debug\12.CountOfNames.pdb
+D:\SoftUni\07.C# Advanced\Advanced-Homework\12.CountOfNames\obj\Debug\12.CountOfNames.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.C# Advanced\Advanced-Homework\12.CountOfNames\obj\Debug\12.CountOfNames.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\12.CountOfNames\obj\Debug\12.CountOfNames.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\04.InputOutput\InputOutput-Homework\08.NumFromOneToN\bin\Debug\08.NumFromOneToN.exe.config
+D:\SoftUni\04.InputOutput\InputOutput-Homework\08.NumFromOneToN\bin\Debug\08.NumFromOneToN.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\08.NumFromOneToN\bin\Debug\08.NumFromOneToN.pdb
+D:\SoftUni\04.InputOutput\InputOutput-Homework\08.NumFromOneToN\obj\Debug\08.NumFromOneToN.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\08.NumFromOneToN\obj\Debug\08.NumFromOneToN.pdb

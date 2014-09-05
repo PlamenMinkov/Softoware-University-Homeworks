@@ -1,0 +1,5 @@
+D:\SoftUni\06.Loops\06.Loops-Homework\13.FromBinaryToDecimal\bin\Debug\13.FromBinaryToDecimal.exe.config
+D:\SoftUni\06.Loops\06.Loops-Homework\13.FromBinaryToDecimal\bin\Debug\13.FromBinaryToDecimal.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\13.FromBinaryToDecimal\bin\Debug\13.FromBinaryToDecimal.pdb
+D:\SoftUni\06.Loops\06.Loops-Homework\13.FromBinaryToDecimal\obj\Debug\13.FromBinaryToDecimal.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\13.FromBinaryToDecimal\obj\Debug\13.FromBinaryToDecimal.pdb

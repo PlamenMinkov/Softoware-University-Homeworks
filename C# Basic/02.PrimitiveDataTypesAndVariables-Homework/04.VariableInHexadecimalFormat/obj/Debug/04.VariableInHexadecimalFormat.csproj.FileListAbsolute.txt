@@ -1,0 +1,5 @@
+D:\SoftUni\02.PrimitiveDataTypeAndVariables\PrimitiveDataTypesAndVariables-Homework\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe.config
+D:\SoftUni\02.PrimitiveDataTypeAndVariables\PrimitiveDataTypesAndVariables-Homework\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe
+D:\SoftUni\02.PrimitiveDataTypeAndVariables\PrimitiveDataTypesAndVariables-Homework\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.pdb
+D:\SoftUni\02.PrimitiveDataTypeAndVariables\PrimitiveDataTypesAndVariables-Homework\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.exe
+D:\SoftUni\02.PrimitiveDataTypeAndVariables\PrimitiveDataTypesAndVariables-Homework\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.pdb

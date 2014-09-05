@@ -1,0 +1,6 @@
+D:\SoftUni\04.InputOutput\InputOutput-Homework\10.Fibonacci\bin\Debug\10.Fibonacci.exe.config
+D:\SoftUni\04.InputOutput\InputOutput-Homework\10.Fibonacci\bin\Debug\10.Fibonacci.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\10.Fibonacci\bin\Debug\10.Fibonacci.pdb
+D:\SoftUni\04.InputOutput\InputOutput-Homework\10.Fibonacci\obj\Debug\10.Fibonacci.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.InputOutput\InputOutput-Homework\10.Fibonacci\obj\Debug\10.Fibonacci.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\10.Fibonacci\obj\Debug\10.Fibonacci.pdb

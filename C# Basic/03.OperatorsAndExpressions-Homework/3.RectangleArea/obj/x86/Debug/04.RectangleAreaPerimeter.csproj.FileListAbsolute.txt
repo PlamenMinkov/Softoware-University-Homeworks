@@ -1,0 +1,5 @@
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\3.RectangleArea\bin\Debug\3.RectangleArea.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\3.RectangleArea\bin\Debug\3.RectangleArea.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\3.RectangleArea\obj\x86\Debug\04.RectangleAreaPerimeter.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\3.RectangleArea\obj\x86\Debug\3.RectangleArea.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\3.RectangleArea\obj\x86\Debug\3.RectangleArea.pdb

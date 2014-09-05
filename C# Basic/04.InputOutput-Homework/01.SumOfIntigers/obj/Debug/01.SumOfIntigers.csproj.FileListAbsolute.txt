@@ -1,0 +1,6 @@
+D:\SoftUni\04.InputOutput\InputOutput-Homework\01.SumOfIntigers\bin\Debug\01.SumOfIntigers.exe.config
+D:\SoftUni\04.InputOutput\InputOutput-Homework\01.SumOfIntigers\bin\Debug\01.SumOfIntigers.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\01.SumOfIntigers\bin\Debug\01.SumOfIntigers.pdb
+D:\SoftUni\04.InputOutput\InputOutput-Homework\01.SumOfIntigers\obj\Debug\01.SumOfIntigers.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.InputOutput\InputOutput-Homework\01.SumOfIntigers\obj\Debug\01.SumOfIntigers.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\01.SumOfIntigers\obj\Debug\01.SumOfIntigers.pdb

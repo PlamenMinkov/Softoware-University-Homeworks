@@ -1,0 +1,7 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\1.OddOrEven\bin\Debug\1.OddOrEven.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\1.OddOrEven\bin\Debug\1.OddOrEven.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\1.OddOrEven\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\1.OddOrEven\obj\x86\Debug\1.OddOrEven.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\1.OddOrEven\obj\x86\Debug\1.OddOrEven.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\1.OddOrEven\obj\x86\Debug\1.OddOrEven.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\1.OddOrEven\obj\x86\Debug\1.OddOrEven.pdb

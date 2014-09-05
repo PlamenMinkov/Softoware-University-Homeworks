@@ -1,0 +1,5 @@
+D:\SoftUni\06.Loops\06.Loops-Homework\02.NumNotDevisibleFrom3and7\bin\Debug\02.NumNotDevisibleFrom3and7.exe.config
+D:\SoftUni\06.Loops\06.Loops-Homework\02.NumNotDevisibleFrom3and7\bin\Debug\02.NumNotDevisibleFrom3and7.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\02.NumNotDevisibleFrom3and7\bin\Debug\02.NumNotDevisibleFrom3and7.pdb
+D:\SoftUni\06.Loops\06.Loops-Homework\02.NumNotDevisibleFrom3and7\obj\Debug\02.NumNotDevisibleFrom3and7.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\02.NumNotDevisibleFrom3and7\obj\Debug\02.NumNotDevisibleFrom3and7.pdb

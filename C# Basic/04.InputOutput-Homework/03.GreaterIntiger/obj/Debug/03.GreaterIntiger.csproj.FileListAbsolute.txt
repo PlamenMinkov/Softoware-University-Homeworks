@@ -1,0 +1,5 @@
+D:\SoftUni\04.InputOutput\InputOutput-Homework\03.GreaterIntiger\bin\Debug\03.GreaterIntiger.exe.config
+D:\SoftUni\04.InputOutput\InputOutput-Homework\03.GreaterIntiger\bin\Debug\03.GreaterIntiger.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\03.GreaterIntiger\bin\Debug\03.GreaterIntiger.pdb
+D:\SoftUni\04.InputOutput\InputOutput-Homework\03.GreaterIntiger\obj\Debug\03.GreaterIntiger.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\03.GreaterIntiger\obj\Debug\03.GreaterIntiger.pdb

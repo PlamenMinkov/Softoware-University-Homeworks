@@ -1,0 +1,7 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\6.PointAndCircle\bin\Debug\6.PointAndCircle.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\6.PointAndCircle\bin\Debug\6.PointAndCircle.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\6.PointAndCircle\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\6.PointAndCircle\obj\x86\Debug\6.PointAndCircle.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\6.PointAndCircle\obj\x86\Debug\6.PointAndCircle.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\6.PointAndCircle\obj\x86\Debug\6.PointAndCircle.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\6.PointAndCircle\obj\x86\Debug\6.PointAndCircle.pdb

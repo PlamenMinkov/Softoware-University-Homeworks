@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\4.ThirdDigit\bin\Debug\4.ThirdDigit.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\4.ThirdDigit\bin\Debug\4.ThirdDigit.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\4.ThirdDigit\obj\x86\Debug\4.ThirdDigit.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\4.ThirdDigit\obj\x86\Debug\4.ThirdDigit.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\4.ThirdDigit\obj\x86\Debug\4.ThirdDigit.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\4.ThirdDigit\obj\x86\Debug\4.ThirdDigit.pdb

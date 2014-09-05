@@ -1,0 +1,5 @@
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\13.IsTheBitOnPositionPisOne\bin\Debug\13.IsTheBitOnPositionPisOne.exe.config
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\13.IsTheBitOnPositionPisOne\bin\Debug\13.IsTheBitOnPositionPisOne.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\13.IsTheBitOnPositionPisOne\bin\Debug\13.IsTheBitOnPositionPisOne.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\13.IsTheBitOnPositionPisOne\obj\Debug\13.IsTheBitOnPositionPisOne.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\13.IsTheBitOnPositionPisOne\obj\Debug\13.IsTheBitOnPositionPisOne.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\12.HoldValue\bin\Debug\12.HoldValue.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\12.HoldValue\bin\Debug\12.HoldValue.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\12.HoldValue\obj\x86\Debug\12.HoldValue.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\12.HoldValue\obj\x86\Debug\12.HoldValue.pdb

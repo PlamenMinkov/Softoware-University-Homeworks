@@ -1,0 +1,7 @@
+C:\Users\Plamen\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\14.ExchangePbitsWithQbits\bin\Debug\14.ExchangePbitsWithQbits.exe
+C:\Users\Plamen\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\14.ExchangePbitsWithQbits\bin\Debug\14.ExchangePbitsWithQbits.pdb
+C:\Users\Plamen\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\14.ExchangePbitsWithQbits\obj\x86\Debug\14.ExchangePbitsWithQbits.exe
+C:\Users\Plamen\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\14.ExchangePbitsWithQbits\obj\x86\Debug\14.ExchangePbitsWithQbits.pdb
+C:\Users\Plamen\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\14.ExchangePbitsWithQbits\obj\x86\Debug\14.ExchangePbitsWithQbits.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\14.ExchangePbitsWithQbits\obj\x86\Debug\14.ExchangePbitsWithQbits.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\14.ExchangePbitsWithQbits\obj\x86\Debug\14.ExchangePbitsWithQbits.pdb

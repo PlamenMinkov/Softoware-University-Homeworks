@@ -1,0 +1,9 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\10.PositionBit\bin\Debug\10.PositionBit.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\10.PositionBit\bin\Debug\10.PositionBit.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\10.PositionBit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\10.PositionBit\obj\x86\Debug\10.PositionBit.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\10.PositionBit\obj\x86\Debug\10.PositionBit.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\10.PositionBit\obj\x86\Debug\10.PositionBit.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\10.PositionBit\obj\x86\Debug\10.PositionBit.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\10.PositionBit\bin\Debug\10.PositionBit.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\10.PositionBit\bin\Debug\10.PositionBit.pdb

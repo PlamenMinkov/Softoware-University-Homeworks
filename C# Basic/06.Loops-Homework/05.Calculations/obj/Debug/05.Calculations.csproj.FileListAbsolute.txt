@@ -1,0 +1,5 @@
+D:\SoftUni\06.Loops\06.Loops-Homework\05.Calculations\bin\Debug\05.Calculations.exe.config
+D:\SoftUni\06.Loops\06.Loops-Homework\05.Calculations\bin\Debug\05.Calculations.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\05.Calculations\bin\Debug\05.Calculations.pdb
+D:\SoftUni\06.Loops\06.Loops-Homework\05.Calculations\obj\Debug\05.Calculations.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\05.Calculations\obj\Debug\05.Calculations.pdb

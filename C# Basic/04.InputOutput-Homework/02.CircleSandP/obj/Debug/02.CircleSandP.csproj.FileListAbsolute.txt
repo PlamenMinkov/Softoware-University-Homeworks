@@ -1,0 +1,5 @@
+D:\SoftUni\04.InputOutput\InputOutput-Homework\02.CircleSandP\bin\Debug\02.CircleSandP.exe.config
+D:\SoftUni\04.InputOutput\InputOutput-Homework\02.CircleSandP\bin\Debug\02.CircleSandP.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\02.CircleSandP\bin\Debug\02.CircleSandP.pdb
+D:\SoftUni\04.InputOutput\InputOutput-Homework\02.CircleSandP\obj\Debug\02.CircleSandP.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\02.CircleSandP\obj\Debug\02.CircleSandP.pdb

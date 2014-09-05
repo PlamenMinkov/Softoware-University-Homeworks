@@ -1,0 +1,8 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\2.BooleanExpressionForDivided\bin\Debug\2.BooleanExpressionForDivided.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\2.BooleanExpressionForDivided\bin\Debug\2.BooleanExpressionForDivided.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\2.BooleanExpressionForDivided\obj\x86\Debug\2.BooleanExpressionForDivided.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\2.BooleanExpressionForDivided\obj\x86\Debug\2.BooleanExpressionForDivided.pdb
+D:\SoftUni\Su\OperatorsAndExpressions\2.BooleanExpressionForDivided\obj\x86\Debug\2.BooleanExpressionForDivided.exe
+D:\SoftUni\Su\OperatorsAndExpressions\2.BooleanExpressionForDivided\obj\x86\Debug\2.BooleanExpressionForDivided.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\2.BooleanExpressionForDivided\obj\x86\Debug\2.BooleanExpressionForDivided.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\2.BooleanExpressionForDivided\obj\x86\Debug\2.BooleanExpressionForDivided.pdb

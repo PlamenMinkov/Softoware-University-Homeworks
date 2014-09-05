@@ -1,0 +1,5 @@
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\05.BiggestNum\bin\Debug\05.BiggestNum.exe.config
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\05.BiggestNum\bin\Debug\05.BiggestNum.exe
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\05.BiggestNum\bin\Debug\05.BiggestNum.pdb
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\05.BiggestNum\obj\Debug\05.BiggestNum.exe
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\05.BiggestNum\obj\Debug\05.BiggestNum.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\04.InputOutput\InputOutput-Homework\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.exe.config
+D:\SoftUni\04.InputOutput\InputOutput-Homework\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb
+D:\SoftUni\04.InputOutput\InputOutput-Homework\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.InputOutput\InputOutput-Homework\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb

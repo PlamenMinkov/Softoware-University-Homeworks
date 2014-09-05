@@ -1,0 +1,5 @@
+D:\SoftUni\07.C# Advanced\Advanced-Homework\ConvertFromStringToDouble\bin\Debug\ConvertFromStringToDouble.exe.config
+D:\SoftUni\07.C# Advanced\Advanced-Homework\ConvertFromStringToDouble\bin\Debug\ConvertFromStringToDouble.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\ConvertFromStringToDouble\bin\Debug\ConvertFromStringToDouble.pdb
+D:\SoftUni\07.C# Advanced\Advanced-Homework\ConvertFromStringToDouble\obj\Debug\ConvertFromStringToDouble.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\ConvertFromStringToDouble\obj\Debug\ConvertFromStringToDouble.pdb

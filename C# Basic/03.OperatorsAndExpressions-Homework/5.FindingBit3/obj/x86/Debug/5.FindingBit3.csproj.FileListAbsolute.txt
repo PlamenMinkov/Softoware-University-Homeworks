@@ -1,0 +1,7 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\5.FindingBit3\bin\Debug\5.FindingBit3.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\5.FindingBit3\bin\Debug\5.FindingBit3.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\5.FindingBit3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\5.FindingBit3\obj\x86\Debug\5.FindingBit3.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\5.FindingBit3\obj\x86\Debug\5.FindingBit3.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\5.FindingBit3\obj\x86\Debug\5.FindingBit3.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\5.FindingBit3\obj\x86\Debug\5.FindingBit3.pdb

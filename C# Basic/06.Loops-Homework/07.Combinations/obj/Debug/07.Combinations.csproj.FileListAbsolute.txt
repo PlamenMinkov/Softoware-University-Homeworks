@@ -1,0 +1,5 @@
+D:\SoftUni\06.Loops\06.Loops-Homework\07.Combinations\bin\Debug\07.Combinations.exe.config
+D:\SoftUni\06.Loops\06.Loops-Homework\07.Combinations\bin\Debug\07.Combinations.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\07.Combinations\bin\Debug\07.Combinations.pdb
+D:\SoftUni\06.Loops\06.Loops-Homework\07.Combinations\obj\Debug\07.Combinations.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\07.Combinations\obj\Debug\07.Combinations.pdb

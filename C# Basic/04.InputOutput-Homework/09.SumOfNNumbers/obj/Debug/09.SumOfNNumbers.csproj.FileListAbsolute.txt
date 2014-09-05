@@ -1,0 +1,5 @@
+D:\SoftUni\04.InputOutput\InputOutput-Homework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+D:\SoftUni\04.InputOutput\InputOutput-Homework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+D:\SoftUni\04.InputOutput\InputOutput-Homework\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb

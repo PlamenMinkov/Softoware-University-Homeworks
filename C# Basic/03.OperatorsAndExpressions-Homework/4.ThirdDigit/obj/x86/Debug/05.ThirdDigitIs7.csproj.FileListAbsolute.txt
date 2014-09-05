@@ -1,0 +1,4 @@
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\4.ThirdDigit\bin\Debug\4.ThirdDigit.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\4.ThirdDigit\bin\Debug\4.ThirdDigit.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\4.ThirdDigit\obj\x86\Debug\4.ThirdDigit.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\4.ThirdDigit\obj\x86\Debug\4.ThirdDigit.pdb

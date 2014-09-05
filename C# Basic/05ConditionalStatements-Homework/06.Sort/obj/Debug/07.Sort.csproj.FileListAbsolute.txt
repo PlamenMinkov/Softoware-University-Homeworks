@@ -1,0 +1,6 @@
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\06.Sort\bin\Debug\06.Sort.exe.config
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\06.Sort\bin\Debug\06.Sort.exe
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\06.Sort\bin\Debug\06.Sort.pdb
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\06.Sort\obj\Debug\07.Sort.csprojResolveAssemblyReference.cache
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\06.Sort\obj\Debug\06.Sort.exe
+D:\SoftUni\05.ConditionalStatements\ConditionalStatements-Homework\06.Sort\obj\Debug\06.Sort.pdb

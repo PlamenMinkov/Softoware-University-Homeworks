@@ -1,0 +1,6 @@
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\03.devideBy7and5\bin\Debug\03.devideBy7and5.exe.config
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\03.devideBy7and5\bin\Debug\03.devideBy7and5.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\03.devideBy7and5\bin\Debug\03.devideBy7and5.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\03.devideBy7and5\obj\Debug\03.devideBy7and5.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\03.devideBy7and5\obj\Debug\03.devideBy7and5.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\03.devideBy7and5\obj\Debug\03.devideBy7and5.pdb

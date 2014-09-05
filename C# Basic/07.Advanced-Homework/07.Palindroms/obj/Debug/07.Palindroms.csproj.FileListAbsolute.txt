@@ -1,0 +1,6 @@
+D:\SoftUni\07.C# Advanced\Advanced-Homework\07.Palindroms\bin\Debug\07.Palindroms.exe.config
+D:\SoftUni\07.C# Advanced\Advanced-Homework\07.Palindroms\bin\Debug\07.Palindroms.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\07.Palindroms\bin\Debug\07.Palindroms.pdb
+D:\SoftUni\07.C# Advanced\Advanced-Homework\07.Palindroms\obj\Debug\07.Palindroms.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.C# Advanced\Advanced-Homework\07.Palindroms\obj\Debug\07.Palindroms.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\07.Palindroms\obj\Debug\07.Palindroms.pdb

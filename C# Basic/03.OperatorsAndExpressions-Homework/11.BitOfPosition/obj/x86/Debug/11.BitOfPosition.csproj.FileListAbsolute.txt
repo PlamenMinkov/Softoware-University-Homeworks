@@ -1,0 +1,10 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\11.BitOfPosition\bin\Debug\11.BitOfPosition.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\11.BitOfPosition\bin\Debug\11.BitOfPosition.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\11.BitOfPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\11.BitOfPosition\obj\x86\Debug\11.BitOfPosition.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\11.BitOfPosition\obj\x86\Debug\11.BitOfPosition.pdb
+D:\SoftUni\Su\OperatorsAndExpressions\11.BitOfPosition\obj\x86\Debug\11.BitOfPosition.exe
+D:\SoftUni\Su\OperatorsAndExpressions\11.BitOfPosition\obj\x86\Debug\11.BitOfPosition.pdb
+D:\SoftUni\Su\OperatorsAndExpressions\11.BitOfPosition\bin\Debug\11.BitOfPosition.exe
+D:\SoftUni\Su\OperatorsAndExpressions\11.BitOfPosition\bin\Debug\11.BitOfPosition.pdb
+D:\SoftUni\Su\OperatorsAndExpressions\11.BitOfPosition\obj\x86\Debug\11.BitOfPosition.csprojResolveAssemblyReference.cache

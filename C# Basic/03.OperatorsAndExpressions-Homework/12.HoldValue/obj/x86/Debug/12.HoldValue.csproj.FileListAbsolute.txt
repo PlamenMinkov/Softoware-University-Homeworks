@@ -1,0 +1,7 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\12.HoldValue\bin\Debug\12.HoldValue.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\12.HoldValue\bin\Debug\12.HoldValue.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\12.HoldValue\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\12.HoldValue\obj\x86\Debug\12.HoldValue.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\12.HoldValue\obj\x86\Debug\12.HoldValue.pdb
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\12.HoldValue\obj\x86\Debug\12.HoldValue.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\12.HoldValue\obj\x86\Debug\12.HoldValue.pdb

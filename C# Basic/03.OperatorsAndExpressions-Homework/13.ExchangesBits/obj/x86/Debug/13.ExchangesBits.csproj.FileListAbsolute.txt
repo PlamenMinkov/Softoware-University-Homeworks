@@ -1,0 +1,7 @@
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\13.ExchangesBits\bin\Debug\13.ExchangesBits.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\13.ExchangesBits\bin\Debug\13.ExchangesBits.pdb
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\13.ExchangesBits\obj\x86\Debug\13.ExchangesBits.exe
+c:\users\plamen\documents\visual studio 2010\Projects\OperatorsAndExpressions\13.ExchangesBits\obj\x86\Debug\13.ExchangesBits.pdb
+C:\Users\Plamen\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\13.ExchangesBits\obj\x86\Debug\13.ExchangesBits.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\13.ExchangesBits\obj\x86\Debug\13.ExchangesBits.exe
+D:\SoftUni\03.OperatorsAndExpressions\OperatorsAndExpressions-Homework\13.ExchangesBits\obj\x86\Debug\13.ExchangesBits.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\07.C# Advanced\Advanced-Homework\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe.config
+D:\SoftUni\07.C# Advanced\Advanced-Homework\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.pdb
+D:\SoftUni\07.C# Advanced\Advanced-Homework\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.C# Advanced\Advanced-Homework\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.pdb

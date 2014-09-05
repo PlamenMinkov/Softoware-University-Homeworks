@@ -1,0 +1,6 @@
+D:\SoftUni\04.InputOutput\InputOutput-Homework\07.SumOf5Num\bin\Debug\07.SumOf5Num.exe.config
+D:\SoftUni\04.InputOutput\InputOutput-Homework\07.SumOf5Num\bin\Debug\07.SumOf5Num.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\07.SumOf5Num\bin\Debug\07.SumOf5Num.pdb
+D:\SoftUni\04.InputOutput\InputOutput-Homework\07.SumOf5Num\obj\Debug\07.SumOf5Num.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.InputOutput\InputOutput-Homework\07.SumOf5Num\obj\Debug\07.SumOf5Num.exe
+D:\SoftUni\04.InputOutput\InputOutput-Homework\07.SumOf5Num\obj\Debug\07.SumOf5Num.pdb

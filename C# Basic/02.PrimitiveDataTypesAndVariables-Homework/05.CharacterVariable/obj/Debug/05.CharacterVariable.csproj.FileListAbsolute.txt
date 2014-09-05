@@ -1,0 +1,5 @@
+D:\SoftUni\02.PrimitiveDataTypeAndVariables\PrimitiveDataTypesAndVariables-Homework\05.CharacterVariable\bin\Debug\05.CharacterVariable.exe.config
+D:\SoftUni\02.PrimitiveDataTypeAndVariables\PrimitiveDataTypesAndVariables-Homework\05.CharacterVariable\bin\Debug\05.CharacterVariable.exe
+D:\SoftUni\02.PrimitiveDataTypeAndVariables\PrimitiveDataTypesAndVariables-Homework\05.CharacterVariable\bin\Debug\05.CharacterVariable.pdb
+D:\SoftUni\02.PrimitiveDataTypeAndVariables\PrimitiveDataTypesAndVariables-Homework\05.CharacterVariable\obj\Debug\05.CharacterVariable.exe
+D:\SoftUni\02.PrimitiveDataTypeAndVariables\PrimitiveDataTypesAndVariables-Homework\05.CharacterVariable\obj\Debug\05.CharacterVariable.pdb

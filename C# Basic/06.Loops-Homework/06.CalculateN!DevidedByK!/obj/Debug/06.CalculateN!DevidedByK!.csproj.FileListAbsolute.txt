@@ -1,0 +1,5 @@
+D:\SoftUni\06.Loops\06.Loops-Homework\06.CalculateN!DevidedByK!\bin\Debug\06.CalculateN!DevidedByK!.exe.config
+D:\SoftUni\06.Loops\06.Loops-Homework\06.CalculateN!DevidedByK!\bin\Debug\06.CalculateN!DevidedByK!.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\06.CalculateN!DevidedByK!\bin\Debug\06.CalculateN!DevidedByK!.pdb
+D:\SoftUni\06.Loops\06.Loops-Homework\06.CalculateN!DevidedByK!\obj\Debug\06.CalculateN!DevidedByK!.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\06.CalculateN!DevidedByK!\obj\Debug\06.CalculateN!DevidedByK!.pdb

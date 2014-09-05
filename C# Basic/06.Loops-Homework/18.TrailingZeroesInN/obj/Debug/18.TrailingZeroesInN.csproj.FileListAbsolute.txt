@@ -1,0 +1,6 @@
+D:\SoftUni\06.Loops\06.Loops-Homework\18.TrailingZeroesInN\bin\Debug\18.TrailingZeroesInN.exe.config
+D:\SoftUni\06.Loops\06.Loops-Homework\18.TrailingZeroesInN\bin\Debug\18.TrailingZeroesInN.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\18.TrailingZeroesInN\bin\Debug\18.TrailingZeroesInN.pdb
+D:\SoftUni\06.Loops\06.Loops-Homework\18.TrailingZeroesInN\obj\Debug\18.TrailingZeroesInN.csprojResolveAssemblyReference.cache
+D:\SoftUni\06.Loops\06.Loops-Homework\18.TrailingZeroesInN\obj\Debug\18.TrailingZeroesInN.exe
+D:\SoftUni\06.Loops\06.Loops-Homework\18.TrailingZeroesInN\obj\Debug\18.TrailingZeroesInN.pdb

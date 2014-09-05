@@ -1,0 +1,5 @@
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\07.FirstAndLastName\bin\Debug\07.FirstAndLastName.exe.config
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\07.FirstAndLastName\bin\Debug\07.FirstAndLastName.exe
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\07.FirstAndLastName\bin\Debug\07.FirstAndLastName.pdb
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\07.FirstAndLastName\obj\Debug\07.FirstAndLastName.exe
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\07.FirstAndLastName\obj\Debug\07.FirstAndLastName.pdb

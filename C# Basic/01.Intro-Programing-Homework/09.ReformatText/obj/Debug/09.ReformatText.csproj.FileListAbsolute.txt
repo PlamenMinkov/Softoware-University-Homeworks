@@ -1,0 +1,5 @@
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\09.ReformatText\bin\Debug\09.ReformatText.exe.config
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\09.ReformatText\bin\Debug\09.ReformatText.exe
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\09.ReformatText\bin\Debug\09.ReformatText.pdb
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\09.ReformatText\obj\Debug\09.ReformatText.exe
+D:\SoftUni\01.IntroductionToPrograming\Intro-Programing-Homework\09.ReformatText\obj\Debug\09.ReformatText.pdb

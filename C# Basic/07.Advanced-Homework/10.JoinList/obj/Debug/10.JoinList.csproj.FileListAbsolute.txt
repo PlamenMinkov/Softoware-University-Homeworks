@@ -1,0 +1,6 @@
+D:\SoftUni\07.C# Advanced\Advanced-Homework\10.JoinList\bin\Debug\10.JoinList.exe.config
+D:\SoftUni\07.C# Advanced\Advanced-Homework\10.JoinList\bin\Debug\10.JoinList.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\10.JoinList\bin\Debug\10.JoinList.pdb
+D:\SoftUni\07.C# Advanced\Advanced-Homework\10.JoinList\obj\Debug\10.JoinList.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.C# Advanced\Advanced-Homework\10.JoinList\obj\Debug\10.JoinList.exe
+D:\SoftUni\07.C# Advanced\Advanced-Homework\10.JoinList\obj\Debug\10.JoinList.pdb
