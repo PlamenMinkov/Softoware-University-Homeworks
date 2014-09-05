@@ -1,0 +1,45 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+public class _04_LongestIncreasingSequence {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String line=input.nextLine();
+		String[] arr=line.split(" ");
+
+		ArrayList<String> numbers = new ArrayList<String>();
+		ArrayList<String> longestSequence = new ArrayList<String>();
+		int count=1,momentCount=1;
+		for (int i = 0; i <arr.length-1; i++) {
+				if(Integer.parseInt(arr[i])<Integer.parseInt(arr[i+1]) ){
+					momentCount++;
+					numbers.add(arr[i]);
+					System.out.println(momentCount+" "+arr[i]);
+				}
+				else	if(momentCount>count){
+						numbers.add(arr[i]);
+						for (String str : numbers) {
+							System.out.println(str+" ");
+						}
+						//System.out.println();
+							count=momentCount;
+							longestSequence=numbers;
+							momentCount=1;
+						}
+				else{
+					numbers.add(arr[i]);
+					for (String str : numbers) {
+						System.out.println(str+" ");
+					}
+					//System.out.println();
+					momentCount=1;
+				}
+					
+			}
+//		for (int i = 0; i < count; i++) {
+//			System.out.print(largestStr+" ");
+//		}
+	}
+}

@@ -1,0 +1,29 @@
+import java.util.Locale;
+import java.util.Scanner;
+public class _03_PointsInsideAFigure {
+
+	static boolean InnerRectangle(double x, double y){
+		
+		if((x>12.5&&x<22.5)&&(y>6&&y<13.5))return false;
+		else return true;
+	}
+	
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.ROOT); 
+		int input,count=1, arrCounter=0;
+		int[] Xes=new int[100];
+		int[] Ys=new int[100];
+		String[] Results=new String[100];
+		while ((input = System.in.read()) != '\n') {
+				if(count%2!=0) Xes[arrCounter]=input;
+				else {
+					Ys[arrCounter]=input;
+					arrCounter++;
+				}
+				count++;
+			}
+		
+		
+	}
+
+}

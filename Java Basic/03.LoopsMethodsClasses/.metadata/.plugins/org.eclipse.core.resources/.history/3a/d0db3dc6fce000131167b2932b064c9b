@@ -1,0 +1,32 @@
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Locale;
+import java.util.Scanner;
+import java.util.Date;
+import java.util.concurrent.TimeUnit;
+
+import org.joda.time.DateTime;
+
+public class _07_DaysBetweenTwoDates {
+ 
+        public static void main(String[] args) throws ParseException {
+        	String s = "03/29/2013";
+        	String s1 = "03/24/2013";
+            SimpleDateFormat simpleDateFormat = new SimpleDateFormat("MM/dd/yyyy");
+            try
+            {
+            	TimeUnit timeUnit = null;
+                Date date = simpleDateFormat.parse(s);
+                Date date1=simpleDateFormat.parse(s1);
+                int diffInMillies=(int)( (date.getTime() - date1.getTime()) );
+                timeUnit.convert(diffInMillies,TimeUnit.DAYS);
+                System.out.println(timeUnit);
+            }
+            catch (ParseException ex)
+            {
+                System.out.println("Exception "+ex);
+            }
+        }
+ 
+}

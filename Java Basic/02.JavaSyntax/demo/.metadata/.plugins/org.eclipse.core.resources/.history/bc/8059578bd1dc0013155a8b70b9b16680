@@ -1,0 +1,13 @@
+package test;
+
+public class utf8Characters {
+
+	public static void main(String[] args) {
+		char sym=1;
+		for (int i = 20; i < 500; i++) {
+			System.out.println((char)(sym+i));
+		}
+
+	}
+
+}

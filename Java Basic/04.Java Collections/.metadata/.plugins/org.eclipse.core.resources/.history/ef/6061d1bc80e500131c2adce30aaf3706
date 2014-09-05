@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+
+public class CountBeer {
+
+	public static void main(String[] args) {
+		Scanner input=new Scanner(System.in);
+		int stacCount=0,beerCount=0;
+		while(!input.nextLine().equals("End")){
+			String[] arr=input.nextLine().split(" ");
+			if(arr[1].equals("stacks")){
+				stacCount+=Integer.parseInt(arr[0]);
+			}
+			else{
+				beerCount+=Integer.parseInt(arr[0]);
+				if(beerCount>=20){
+					stacCount++;
+					beerCount-=20;
+				}
+			}
+			
+			System.out.println(stacCount+" stacks +"+beerCount+" beers");
+		}
+
+	}
+
+}

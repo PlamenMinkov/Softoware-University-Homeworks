@@ -1,0 +1,61 @@
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeMap;
+import java.util.TreeSet;
+
+
+public class Orders {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int n=input.nextInt();
+		input.nextLine();
+		String[] arrP=new String[n],arrPr=new String[n];
+		int[] arrC=new int[n];
+		Set<String> set = new HashSet<String>();
+		
+		for (int i = 0; i <n; i++) {
+			String[] maskArr=input.nextLine().split(" ");
+			set.add(maskArr[2]);
+			arrP[i]=maskArr[0];
+			arrC[i]=Integer.parseInt(maskArr[1]);
+			arrPr[i]=maskArr[2];
+		}
+		for (int i = 0; i < arrC.length-1; i++) {
+			for (int j = i+1; j < arrC.length; j++) {
+				if(arrP[i].equals(arrP[j])&&arrPr[i].equals(arrPr[j])){
+					arrC[i]+=arrC[j];
+					arrC[j]=0;
+					arrP[j]="";
+					arrPr[j]="";
+				}
+			}
+		}
+		
+		for (String string : set) {
+			System.out.printf(string+":");
+			String coma=" ";
+			TreeMap<String,Integer> pr=new TreeMap<>();
+			for (int i = 0; i < arrC.length; i++) {
+				if(arrPr[i].equals(string)){
+					pr.put(arrP[i],arrC[i]);
+				}
+			}
+			int count=0;
+			for (String key : pr.keySet()) {
+				arrP[count]=key;
+				arrC[count]=pr.get(key);
+				count++;
+			}
+			for (int i = count; i >=0 ; i--) {
+				System.out.printf(coma+""+arrP[i]+" "+arrC[i]);
+				coma=", ";
+			}
+			System.out.println();
+		}
+
+	}
+
+}

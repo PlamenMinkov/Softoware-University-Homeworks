@@ -1,0 +1,59 @@
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.Locale;
+import java.util.Scanner;
+
+
+
+public class ThreeLargestNums {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.ROOT); 
+		Scanner input = new Scanner(System.in);
+		int n=input.nextInt();
+		double firstM,secondM,thirdM;
+		input.nextLine();
+		
+		
+		String[] arrS=new String[n],maxArr=new String[3];
+		//arrS[0]=input.nextLine();
+		//firstM=secondM=thirdM=Double.parseDouble(arrS[0]);
+		for (int i = 0; i <n; i++) {
+			arrS[i]=input.nextLine();
+			for (int j = 0; j < maxArr.length; j++) {
+				if(Double.parseDouble(arrS[i])<Double.parseDouble(arrS[j])){
+					String mask=arrS[i];
+					arrS[i]=arrS[j];
+					arrS[j]=mask;
+				}
+			}
+		}
+//			if(Double.parseDouble(arrS[i])>firstM){
+//				firstM=Double.parseDouble(arrS[i]);
+//				maxArr[0]=arrS[i];
+//			}
+//			else if(Double.parseDouble(arrS[i])>secondM){
+//				secondM=Double.parseDouble(arrS[i]);
+//				maxArr[1]=arrS[i];
+//			}
+//			else if(Double.parseDouble(arrS[i])>thirdM){
+//				thirdM=Double.parseDouble(arrS[i]);
+//				maxArr[2]=arrS[i];
+//			}
+		//}
+
+//		if(n<3)
+//		for (int i = n-1; i>=0; i--) {
+//				System.out.println(maxArr[i]);
+//		}
+//		else 
+//			for (int j = 0; j < maxArr.length; j++) {
+//				System.out.println(maxArr[j]);
+//			}
+				
+			for (String string : arrS) {
+				System.out.println(string);
+			}
+	}
+
+}

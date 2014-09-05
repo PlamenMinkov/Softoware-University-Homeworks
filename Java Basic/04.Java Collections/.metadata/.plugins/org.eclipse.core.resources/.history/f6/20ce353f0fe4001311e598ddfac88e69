@@ -1,0 +1,23 @@
+import java.util.Arrays;
+import java.util.Scanner;
+import java.util.regex.Pattern;
+
+
+public class _10_ExtactAllUniqueWords {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		String line=input.nextLine();
+		String[] text = input.nextLine().toLowerCase().split("\\W+");
+		
+		String[] arr=line.split(" ");
+		//Arrays.sort(arr);
+		for (String string : text) {
+			System.out.print(string+" ");
+		}
+		
+
+	}
+
+}

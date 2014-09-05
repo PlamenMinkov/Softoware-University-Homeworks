@@ -1,0 +1,25 @@
+import java.lang.*;
+import java.util.Scanner;
+public class pr {
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		String str=input.nextLine();
+		String substr = "", regex = "(";
+		String str2; 
+		
+		
+		 //String str1 = "!!Tutorials!!Point", str2;
+		    
+		    // prints string1
+		    System.out.println("String = " + str);
+		    
+		    /* replaces each substring of this string that matches the given
+		    regular expression with the given replacement */
+		    str2 = str.replaceAll(regex, substr);    
+		    System.out.println("After Replacing = " + str2);
+
+	}
+
+}

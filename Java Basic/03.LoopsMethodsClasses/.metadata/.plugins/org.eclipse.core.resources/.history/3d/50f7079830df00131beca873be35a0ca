@@ -1,0 +1,42 @@
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Scanner;
+public class SimmetricNumbInRange {
+
+	public static ArrayList<Integer> myNumbers(int num)    {
+	    ArrayList<Integer> digits = new ArrayList<Integer>();	    
+			while (num>0) {
+				digits.add(num%10);
+				num/=10;				
+			}		
+	    return(digits);
+	 }
+	
+	public static void main(String[] args) {
+		Scanner input=new Scanner(System.in);
+		int a=input.nextInt();
+		int b=input.nextInt();
+		List<Integer> dig = new ArrayList<Integer>();
+		
+		if(b<a){
+			int mask=b;
+			b=a;
+			a=mask;
+		}
+		for (int i = a+1; i <=b-1; i++) {		
+			dig=myNumbers(i);
+			
+			boolean tr=true;
+			System.out.print(dig.get(dig.size()-(i+1))+" "+dig.get(i));
+			/*for (int j = 0; j <=count/2; j++) {
+				if(dig.get(i)==dig.get(dig.size()-(i+1))){
+					tr=false; break;
+				}
+			}*/
+			if(tr==true) System.out.print(i+" ");
+		}
+		
+		
+	}
+
+}

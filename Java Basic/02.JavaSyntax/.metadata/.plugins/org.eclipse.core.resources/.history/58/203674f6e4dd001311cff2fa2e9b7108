@@ -1,0 +1,19 @@
+import java.io.*;
+import java.util.Locale;
+
+public class FormatingNumbs {
+
+   public static void main(String[] args) {
+      String s = "Hello World";
+
+      // create printstream object
+      PrintStream ps = new PrintStream(System.out);
+
+      // printf this string
+      ps.println(Locale.CANADA, "This is a  application");
+
+      // flush the stream
+      ps.flush();
+
+   }
+}

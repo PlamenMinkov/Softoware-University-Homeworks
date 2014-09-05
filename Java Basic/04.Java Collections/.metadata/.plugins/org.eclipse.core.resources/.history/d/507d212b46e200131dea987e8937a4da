@@ -1,0 +1,30 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+public class _01_SortArray {
+
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		BufferedReader input=
+				new BufferedReader(new InputStreamReader(System.in));
+		int n=Integer.parseInt(input.readLine());
+		int[] arr=new int[n];
+		for (int i = 0; i < n; i++) {
+			arr[i]=Integer.parseInt(input.readLine());
+		}
+		for (int i = 0; i <n-1; i++) {
+			for (int j = i+1; j < n; j++) {
+				if(arr[i]>arr[j]){
+					int mask=arr[i];
+					arr[i]=arr[j];
+					arr[j]=mask;
+				}
+			}
+		}
+		
+		for (int i = 0; i < n; i++) {
+			System.out.print(arr[i]+" ");
+		}
+
+	}
+
+}

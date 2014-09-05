@@ -1,0 +1,35 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Scanner;
+
+
+public class _05_AngleUtilConverter {
+
+	static void Convert(String angle){
+		String[] commands=angle.split(" ");
+		if(commands[1].equals("rad")) {
+            System.out.format("%.6f deg", (Math.toDegrees(Double.parseDouble(commands[0]))));
+            System.out.println();
+            }
+    else {
+              System.out.format("%.6f rad",Math.toRadians(Double.parseDouble(commands[0])));
+              System.out.println();
+      }
+	}
+	
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int n=Integer.parseInt(br.readLine());
+	
+		String[] arr=new String[n];
+		for (int i = 0; i < n; i++) {
+			arr[i]=br.readLine();
+		}
+		for (int i = 0; i < arr.length; i++) {
+			Convert(arr[i]);
+		}
+
+	}
+
+}

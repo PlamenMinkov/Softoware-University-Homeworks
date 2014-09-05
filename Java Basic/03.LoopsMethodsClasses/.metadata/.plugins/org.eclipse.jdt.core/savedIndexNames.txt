@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+E:\Programing and Programing Materials\SoftUni\Java\03.LoopsMethodsClasses\.metadata\.plugins\org.eclipse.jdt.core
+200052466.index
+2415679107.index
+3016554533.index

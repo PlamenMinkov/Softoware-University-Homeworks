@@ -1,0 +1,223 @@
+import java.applet.Applet;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
+
+import javax.imageio.ImageIO;
+
+import java.applet.Applet;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.Image;
+//import java.awt.event.KeyEvent;
+//import java.awt.event.KeyListener;
+import java.awt.image.*;
+import java.io.File;
+import java.io.IOException;
+
+import javax.imageio.ImageIO;
+
+import java.awt.*;
+import java.awt.event.*;
+import java.applet.*;
+import java.awt.geom.*;
+
+public class StartGame extends Applet implements Runnable, KeyListener{
+	static int WIDTH = 800;
+	static int HEIGHT = 600;
+//bird
+	public Image bird;
+	public int width = 640, height = 480,
+			   x=50 , y=50, dx, dy ;
+	public double angle= 0.0 ;
+	///
+	
+	private boolean up = false;
+	private boolean gameOver = false;
+	private Image offscreen;
+	private Graphics d;		
+	private Wall simpleWall;
+	//private Bird simpleBirt;
+	private BufferedImage background;
+	
+	//NEW VARS
+	public int scrollX = 0;
+	public int Wallspeed = -2;
+	
+	//initialize the Game
+	public void init() {
+		setFocusable(true);
+		setSize(WIDTH, HEIGHT);						
+		try {
+			background = ImageIO.read(new File("background.png"));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		//bird
+		bird = getImage(getCodeBase(),"bird.png");
+		dx=bird.getWidth(this);
+		dy=bird.getHeight(this);
+	
+		if (dx < 1) {                       
+			int j = 0 ; 
+			while (bird.getWidth(this) < 1) { 
+				j++ ;
+				if (j++ > 100000) break ; 
+			}
+		}
+		dx=bird.getWidth(this);
+		dy=bird.getHeight(this);
+		/////////////
+		addKeyListener(this);
+	}
+	
+	//start Game
+	public void start() {
+		simpleWall = new Wall();
+		
+		Thread mainThread = new Thread(this); 
+		mainThread.start();
+	}
+	
+	//run Game
+	public void run() {
+		while (true) {		
+			if (!gameOver) {
+				
+				//rotating bird
+				if(y<520)y += 2;
+				else{
+					angle=180.0;
+					y=630;
+					x+=80;
+					gameOver = true;
+				}
+				//angle=0.0;
+				if (up == true) {
+					y -= 8;
+				}
+				if (y < 2) {
+					y = 4;
+				}
+				/////
+				//test wall x
+				
+				if(simpleWall.getX()<=100&&
+						(y<simpleWall.getSplitY()||
+						(y+50)>(simpleWall.getSplitY()+simpleWall.getSplitHeight()))){
+					angle=180.0;x+=80;
+					while(y<=630) {
+						y++;
+						
+						try {
+							Thread.sleep(0,5);
+						} catch (InterruptedException e) {
+							e.printStackTrace();
+						}
+					}
+					gameOver=true;
+				}
+					
+				
+				scrollX += Wallspeed;	//scrolls the little background			
+				if (scrollX == -800) {	//this loops the background around after it's done
+					scrollX = 0;	
+				}
+							
+				if (simpleWall.getX()<0) {
+					simpleWall = null;
+					simpleWall = new Wall();
+				} 
+				simpleWall.update(this);
+				
+				
+				repaint();
+			}
+			
+			try {
+				Thread.sleep(10);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+
+	public void stop() {
+		
+	}
+
+	public void destroy() {
+		
+	}
+	
+	//set double buffering
+	public void update(Graphics g) {
+		if (offscreen==null) {
+			offscreen = createImage(this.getSize().width, this.getSize().height);
+			d = offscreen.getGraphics();
+		}
+		d.setColor(getBackground());
+		d.fillRect(0, 0, this.getSize().width, this.getSize().height);
+		
+		d.setColor(getForeground());
+		paint(d);
+		g.drawImage(offscreen, 0, 0, this);
+	}
+	
+	//draw graphics
+	public void paint(Graphics g) {
+//		g.drawImage(background, 0, 0,this);	
+		g.drawImage(background, scrollX, 0,this);
+		g.drawImage(background, scrollX + 800, 0, null);
+		simpleWall.paint(g);
+
+		//paint bird
+		Graphics2D g2 = (Graphics2D) g;
+		AffineTransform turn = new AffineTransform();
+
+		turn.translate(x, y );
+		turn.rotate(Math.toRadians(angle), (dx/2), (dy/2) );
+		g2.drawImage(bird, turn, this);
+
+		if (gameOver) {
+			Font font = new Font("Serif", Font.BOLD,32);
+			g.setFont(font);
+			g.setColor(Color.WHITE);
+			g.drawString("GAME OVER", 300, 300);
+			
+		}
+	}
+	
+	//on pressed key
+	public void keyPressed(KeyEvent e) {
+		if (e.getKeyCode() == KeyEvent.VK_SPACE) {
+			up = true;
+			if(angle>-15)angle=angle-10;
+
+		}
+
+	}
+
+	public void keyReleased(KeyEvent e) {
+		if (e.getKeyCode() == KeyEvent.VK_SPACE) {
+			up = false;
+			angle=0;
+		}
+	}
+	
+	
+	// on key typed
+	public void keyTyped(KeyEvent e) {
+		
+	}
+
+	public boolean getUp() {
+		return up;
+	}
+}

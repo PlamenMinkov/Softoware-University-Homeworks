@@ -1,0 +1,56 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+public class _04_LongestIncreasingSequence {
+
+	static void Print(ArrayList<String> nums){
+		for (String str : nums) {
+			System.out.print(str+" ");
+		}
+		System.out.println();
+	}
+	
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String line=input.nextLine();
+		String[] arr=line.split(" ");
+
+		ArrayList<String> numbers = new ArrayList<String>();
+		ArrayList<String> longestSequence = new ArrayList<String>();
+		int count=1,momentCount=1;
+		numbers.add(arr[0]);
+		for (int i = 1; i <arr.length; i++) {
+				if(Integer.parseInt(arr[i])>Integer.parseInt(arr[i-1]) ){
+					momentCount++;
+					numbers.add(arr[i]);
+				}
+				else	if(momentCount>count){
+						Print(numbers);
+							count=momentCount;
+							longestSequence=numbers;
+							numbers=new ArrayList<String>(); 
+							numbers.add(arr[i]);
+							momentCount=1;
+						}
+				else{
+					for (String str : numbers) {
+						System.out.print(str+" ");
+					}
+					System.out.println();
+					momentCount=1;
+					numbers=new ArrayList<String>(); 
+					numbers.add(arr[i]);
+				}
+					
+			}
+		for (String string : numbers) {
+			System.out.print(string+" ");
+		}
+		System.out.println();
+		System.out.print("Longest: ");
+		for (String string : longestSequence) {
+			System.out.print(string+" ");
+		}
+	}
+}

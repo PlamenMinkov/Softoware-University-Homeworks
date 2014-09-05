@@ -1,0 +1,20 @@
+package test;
+import java.util.Scanner;
+
+public class utf8Characters {
+
+	public static void main(String[] args) {
+		Scanner a=new Scanner(System.in);
+		int first=a.nextInt();
+		int second=a.nextInt();
+		System.out.println(first);
+		System.out.println(second);
+		char sym='\u265E';
+		System.out.println(sym);
+		for (int i = 1; i < 20; i++) {
+			System.out.println((char)(sym-i));
+		}
+
+	}
+
+}

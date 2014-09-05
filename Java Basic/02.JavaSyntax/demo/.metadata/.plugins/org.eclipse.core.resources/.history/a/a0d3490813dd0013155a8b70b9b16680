@@ -1,0 +1,14 @@
+package test;
+
+public class utf8Characters {
+
+	public static void main(String[] args) {
+		char sym='\u265E';
+		System.out.println(sym);
+		for (int i = 1; i < 20; i++) {
+			System.out.println((char)(sym-i));
+		}
+
+	}
+
+}

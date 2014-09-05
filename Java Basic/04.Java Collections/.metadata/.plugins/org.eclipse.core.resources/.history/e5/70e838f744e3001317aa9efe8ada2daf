@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+
+public class _07_CountSubstringOccurrences {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		String sentence = in.nextLine().toLowerCase();
+		String word = in.nextLine().toLowerCase();
+		String[] str = sentence.split(word);
+		
+		System.out.println(str.length);
+	}
+
+}

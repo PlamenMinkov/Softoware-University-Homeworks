@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+
+public class ThreeLargestNums {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int n=input.nextInt(),firstM,secondM,thirdM;
+		int[] arr=new int[n];
+		arr[0]=input.nextInt();
+		firstM=secondM=thirdM=arr[0];
+		for (int i = 1; i <n; i++) {
+			arr[i]=input.nextInt();
+			if(arr[i]>firstM) firstM=arr[i];
+			else if(arr[i]>secondM)secondM=arr[i];
+			else if(arr[i]>thirdM)thirdM=arr[i];			
+		}
+		System.out.println(firstM);
+		System.out.println(secondM);
+		System.out.println(thirdM);
+	}
+
+}

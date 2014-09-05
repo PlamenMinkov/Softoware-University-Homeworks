@@ -1,0 +1,29 @@
+import java.io.IOException;
+import java.util.Scanner;
+
+
+public class AngleUtilConverter {
+
+	static void Convert(String angle){
+		String[] commands=angle.split(" ");
+		if(commands[1]=="rad") {
+            System.out.format("%.6f deg", (Math.toDegrees(Double.parseDouble(commands[0]))));
+            System.out.println();
+            }
+    else {
+              System.out.format("%.6f rad",Math.toRadians(Double.parseDouble(commands[0])));
+              System.out.println();
+      }
+	}
+	
+	public static void main(String[] args) throws IOException {
+		int n=System.in.read();
+		for (int i = 0; i < n; i++) {
+			Scanner input=new Scanner(System.in);
+			String angle=input.nextLine();
+			Convert(angle);
+		}
+
+	}
+
+}

@@ -1,0 +1,18 @@
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Locale;
+import java.util.Scanner;
+import java.util.Date;
+
+import org.joda.time.DateTime;
+
+public class _07_DaysBetweenTwoDates {
+ 
+        public static void main(String[] args) throws ParseException {
+        	String string = "January 2, 2010";
+        	Date date = new SimpleDateFormat("MMMM d, yyyy", Locale.ENGLISH).parse(string);
+        	System.out.println(date);
+        }
+ 
+}

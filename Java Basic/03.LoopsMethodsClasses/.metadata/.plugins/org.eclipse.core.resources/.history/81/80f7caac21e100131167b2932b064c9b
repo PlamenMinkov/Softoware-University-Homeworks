@@ -1,0 +1,146 @@
+import java.applet.Applet;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+
+
+public class StartGame extends Applet implements Runnable, KeyListener{
+
+	//set margins of the screen
+	private int width = 800;
+	private int height = 600;
+	
+	private boolean gameOver = false;
+	private int score;
+		
+	private Background bg;
+	private Bird bird;
+	private Wall wall;
+
+	///////////////////////
+	// GETTERS & SETTERS //
+	///////////////////////
+	public int getWidth() {
+		return width;
+	}
+	public int getHeight() {
+		return height;
+	}
+	public void setGameOver(boolean gameOver) {
+		this.gameOver = gameOver;
+	}
+	public boolean isGameOver() {
+		return gameOver;
+	}
+	
+	
+	public void init() {
+		//set focus
+		setFocusable(true);
+		setSize(width, height);
+		
+		addKeyListener(this);
+	}
+	
+	public void start() {
+		bg = new Background();
+		bird = new Bird();	
+		wall = new Wall();
+		score = 0;
+		Thread mainThread = new Thread(this); 
+		mainThread.start();
+	}
+	
+	public void stop() {
+
+	}
+	
+	public void destroy() {
+
+	}
+	
+	public void run() {
+		while (!gameOver) {
+			checkPossition();
+			//if GAME OVER is FALSE			
+			score++;
+			if (wall.getStartX() < 0-wall.getWallWidth()) {
+				wall = null;
+				wall = new Wall();
+			}
+			bird.update();
+			wall.update();
+			repaint();
+			
+			try {
+				Thread.sleep(10);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+	
+	//check bird position if it touch the wall or the ground
+	private void checkPossition() {
+		//if the bird touch the ground
+		if (bird.getInitY() >= height-bird.getBirdHeight()) {
+			gameOver = true;
+		}		
+	}
+	
+	
+	public void update(Graphics g) {
+		paint(g);
+	}
+	
+	public void paint(Graphics g) {
+		//draw background
+		bg.paint(g);
+		bird.paint(g);
+		wall.paint(g);
+		//display score result
+		String scoreString = Integer.toString(score);
+		Font font = new Font("Serif", Font.BOLD,32);
+		g.setFont(font);
+		g.setColor(Color.BLACK);
+		g.drawString(scoreString, width-100+2, 30+2);
+		g.setColor(Color.WHITE);
+		g.drawString(scoreString,width-100, 30);
+		
+		//if the game overs
+		if (gameOver) {
+			g.setColor(Color.BLACK);
+			g.drawString("GAME OVER", 300+2, 300+2);
+			g.setColor(Color.WHITE);
+			g.drawString("GAME OVER", 300, 300);			
+		}
+	}
+	
+	//////////////
+	//KEY events
+	//////////////
+	public void keyPressed(KeyEvent e) {
+		if (e.getKeyCode() == KeyEvent.VK_SPACE) {
+			bird.setFlying(true);
+		}		
+		if (e.getKeyCode() == KeyEvent.VK_RIGHT) {
+			bird.setMovingFront(true);
+		}
+	}
+	
+	public void keyReleased(KeyEvent e) {
+		if (e.getKeyCode() == KeyEvent.VK_SPACE) {
+			bird.setFlying(false);
+		}
+		if (e.getKeyCode() == KeyEvent.VK_RIGHT) {
+			bird.setMovingFront(false);
+		}		
+	}
+	
+	public void keyTyped(KeyEvent e) {
+	
+	}
+	
+}

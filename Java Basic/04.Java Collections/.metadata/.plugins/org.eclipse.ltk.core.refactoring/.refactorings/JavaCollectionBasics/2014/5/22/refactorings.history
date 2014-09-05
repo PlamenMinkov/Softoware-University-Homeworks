@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ExtactAllUniqueWords&apos; to &apos;_10_ExtactAllUniqueWords&apos;&#x0D;&#x0A;- Original project: &apos;JavaCollectionBasics&apos;&#x0D;&#x0A;- Original element: &apos;ExtactAllUniqueWords&apos;&#x0D;&#x0A;- Renamed element: &apos;_10_ExtactAllUniqueWords&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ExtactAllUniqueWords&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ExtactAllUniqueWords.java[ExtactAllUniqueWords" matchStrategy="1" name="_10_ExtactAllUniqueWords" qualified="false" references="true" similarDeclarations="false" stamp="1401023116757" textual="false" version="1.0"/>
+</session>

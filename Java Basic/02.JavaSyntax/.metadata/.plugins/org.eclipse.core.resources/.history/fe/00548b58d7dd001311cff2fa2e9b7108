@@ -1,0 +1,24 @@
+import java.util.Scanner;
+public class _03_PointsInsideAFigure {
+
+	static boolean InnerRectangle(double x, double y){
+		
+		if((x>=12.5&&x<=22.5)&&(y>=6&&y<=13.5))return false;
+		else return true;
+	}
+	
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		String firstPoint = in.nextLine();
+        String firstArr[] = firstPoint.split(" ");
+        double x = Double.parseDouble(firstArr[0]);
+        double y = Double.parseDouble(firstArr[1]);
+		if((x>17.5&&x<20)&&(y>8.5&&y<13.5)){
+			if(InnerRectangle(x,y))
+				System.out.println("Inside");
+			else System.out.println("Outside");
+		}
+		else System.out.println("Outside");
+	}
+
+}

@@ -1,0 +1,18 @@
+import java.lang.*;
+public class pr {
+
+	public static void main(String[] args) {
+		 String str1 = "!!Tutorials!!Point", str2;
+		    String substr = "**", regex = "!!";
+		    
+		    // prints string1
+		    System.out.println("String = " + str1);
+		    
+		    /* replaces each substring of this string that matches the given
+		    regular expression with the given replacement */
+		    str2 = str1.replaceAll(regex, substr);    
+		    System.out.println("After Replacing = " + str2);
+
+	}
+
+}

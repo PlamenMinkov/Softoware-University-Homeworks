@@ -1,0 +1,24 @@
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeSet;
+
+
+public class Orders {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int n=input.nextInt();
+		input.nextLine();
+		Set<String> set = new TreeSet<String>();
+		
+		for (int i = 0; i <n; i++) {
+			String[] maskArr=input.nextLine().split(" ");
+			set.add(maskArr[2]);
+		}
+		for (String string : set) {
+			System.out.println(string);
+		}
+
+	}
+
+}

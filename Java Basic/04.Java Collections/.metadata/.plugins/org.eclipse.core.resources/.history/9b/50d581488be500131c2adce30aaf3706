@@ -1,0 +1,35 @@
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.Locale;
+import java.util.Scanner;
+
+
+
+public class ThreeLargestNums {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.ROOT); 
+		Scanner input = new Scanner(System.in);
+		int n=input.nextInt(),firstM,secondM,thirdM;
+		input.nextLine();
+		
+		String[] arrS=new String[n];
+		for (int i = 0; i <n; i++) {
+			
+			arrS[i]=input.nextLine();
+		}
+		
+		
+		Arrays.sort(arrS);
+
+		if(n<3)
+		for (int i = n-1; i>=0; i--) {
+				System.out.println(arrS[i]);
+		}
+		else 
+			for (int i = n-1; i >=n-3; i--) {
+				System.out.println(arrS[i]);
+			}
+	}
+
+}

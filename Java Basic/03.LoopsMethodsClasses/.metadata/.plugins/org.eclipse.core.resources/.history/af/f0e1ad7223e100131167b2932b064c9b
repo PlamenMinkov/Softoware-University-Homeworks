@@ -1,0 +1,126 @@
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.Image;
+import java.awt.geom.AffineTransform;
+import java.applet.Applet;
+import java.awt.Font;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import java.awt.geom.AffineTransform;
+
+
+public class Bird {
+	private StartGame sGame = new StartGame();
+	//bird
+			public Image bird;
+			public int x=50 , y=100, dx, dy ;
+			public double angle= 0.0 ;
+			///
+	//initial X,Y for the bird
+	private int initX = 30;
+	private int initY = 150;
+	
+	//set size of the bird
+	private int birdWidth =  75;
+	private int birdHeight = 50;
+	
+	//current status of the bird
+	private boolean isFlying = false;
+	private boolean isMovingFront = false;
+	
+	//movement steps
+	private int stepUp = 5;
+	private int stepFront = 3;
+	private int fallDown = 2;
+	private int returnBack = 1;
+	
+	//is the bird is dead
+	private boolean isDead = false;
+	
+	///////////////////////
+	// GETTERS & SETTERS //
+	///////////////////////
+	public int getInitX() {
+		return initX;
+	}
+	public void setInitX(int initX) {
+		this.initX = initX;
+	}
+	public int getInitY() {
+		return initY;
+	}
+	public void setInitY(int initY) {
+		this.initY = initY;
+	}	
+	public void setFlying(boolean isFlying) {
+		this.isFlying = isFlying;
+	}
+	public void setMovingFront(boolean isMovingFront) {
+		this.isMovingFront = isMovingFront;
+	}
+	public int getBirdWidth() {
+		return birdWidth;
+	}
+	public int getBirdHeight() {
+		return birdHeight;
+	}
+
+	public void init(){
+		//bird
+		bird = getImage(getCodeBase(),"bird.png");
+		dx=bird.getWidth(this);
+		dy=bird.getHeight(this);
+	
+		if (dx < 1) {                       
+			int j = 0 ; 
+			while (bird.getWidth(this) < 1) { 
+				j++ ;
+				if (j++ > 100000) break ; 
+			}
+		}
+		dx=bird.getWidth(this);
+		dy=bird.getHeight(this);
+		/////////////
+	}
+	
+	public void update() {	
+		//If the space is pressed
+		if (isFlying) {
+			initY -= stepUp;
+		} else {
+			initY += fallDown;
+		}
+		
+		//if the right key is pressed
+		if (isMovingFront) {
+			initX += stepFront;
+		} else {
+			initX -= returnBack;
+		}
+		
+		//restricts the flying area of the bird
+		if (initY <= 1) {
+			initY = 2;
+		} else if (initY >= sGame.getHeight()-birdHeight) {
+			initY = sGame.getHeight()-birdHeight;
+		}		
+		if (initX >= sGame.getWidth()/2) {
+			initX = sGame.getWidth()/2;
+		} else if (initX <= 20) {
+			initX = 20;
+		}	
+	}
+	
+	public void paint(Graphics g) {		
+		g.setColor(Color.GREEN);
+		g.fillRect(initX, initY, birdWidth, birdHeight);
+		//paint bird
+		Graphics2D g2 = (Graphics2D) g;
+		AffineTransform turn = new AffineTransform();
+
+		turn.translate(x, y );
+		turn.rotate(Math.toRadians(angle), (dx/2), (dy/2) );
+		g2.drawImage(bird, turn, this);
+	}
+}
